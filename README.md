@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hi, I'm Anthony Kebadilwe 👋
+I'm Anthony Kebadilwe 🐲
 
 I'm a information management student currently in my third year, focused on software development, networks and data.
 
@@ -11,24 +10,10 @@ I'm a information management student currently in my third year, focused on soft
 - Project Management in IT
 - Management & Entrepreneurship
 
-## What I've covered so far
-- Introduction to Computing, Foundations of Computation
-- Object Oriented Programming, Operating Systems
-- Software Engineering, Databases
-- Web Design & Development, Information Management
-- Business Process Modelling
-- Data Warehousing & Data Mining
-- Health Informatics
-- Technical Writing and Professional Communication
-
 ## Skills
 Java • OOP • SQL • Web Development • Operating Systems • Networking basics
 
-## Currently
-Working through my Java 331 labs and pushing them to GitHub 🚀
-
 📫 Always open to learning, collaborating and feedback.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anthony Kebadilwe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anthony Kebadilwe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ Direct-Cucumber9306) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anthony Kebadilwe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bobokanthony@gmail.com) 
@@ -39,6 +24,15 @@ Working through my Java 331 labs and pushing them to GitHub 🚀
 ![](https://github-readme-stats.shion.dev/api?username=AnthonyKebadilwe&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AnthonyKebadilwe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnthonyKebadilwe&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## What I've covered so far
+- Introduction to Computing, Foundations of Computation
+- Object Oriented Programming, Operating Systems
+- Software Engineering, Databases
+- Web Design & Development, Information Management
+- Business Process Modelling
+- Data Warehousing & Data Mining
+- Health Informatics
+- Technical Writing and Professional Communication
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
