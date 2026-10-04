@@ -1,5 +1,33 @@
 # 💫 About Me:
-I'm a information management student interested in Cyber sec and Ai integration
+# Hi, I'm Anthony Kebadilwe 👋
+
+I'm a information management student currently in my third year, focused on software development, networks and data.
+
+## What I'm studying (2026 Semester 1)
+- Programming in Java
+- Computer Networks
+- Database Management Systems
+- Internet Programming
+- Project Management in IT
+- Management & Entrepreneurship
+
+## What I've covered so far
+- Introduction to Computing, Foundations of Computation
+- Object Oriented Programming, Operating Systems
+- Software Engineering, Databases
+- Web Design & Development, Information Management
+- Business Process Modelling
+- Data Warehousing & Data Mining
+- Health Informatics
+- Technical Writing and Professional Communication
+
+## Skills
+Java • OOP • SQL • Web Development • Operating Systems • Networking basics
+
+## Currently
+Working through my Java 331 labs and pushing them to GitHub 🚀
+
+📫 Always open to learning, collaborating and feedback.
 
 
 ## 🌐 Socials:
