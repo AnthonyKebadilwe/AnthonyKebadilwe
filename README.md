@@ -3,18 +3,11 @@
 I'm a information management student currently in my third year, focused on software development, networks and data.
 
 ## What I'm studying (2026 Semester 1)
-- Programming in Java
-- Computer Networks
-- Database Management Systems
-- Internet Programming
-- Project Management in IT
-- Management & Entrepreneurship
-
-## Skills
-Java • OOP • SQL • Web Development • Operating Systems • Networking basics
+- Programming in Java - Management & Entrepreneurship
+- Computer Networks - Project Management in IT
+- Database Management Systems - Internet Programming
 
 📫 Always open to learning, collaborating and feedback.
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anthony Kebadilwe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anthony Kebadilwe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ Direct-Cucumber9306) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Anthony Kebadilwe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bobokanthony@gmail.com) 
 
@@ -33,7 +26,8 @@ Java • OOP • SQL • Web Development • Operating Systems • Networking ba
 - Data Warehousing & Data Mining
 - Health Informatics
 - Technical Writing and Professional Communication
-
+## Skills
+Java • OOP • SQL • Web Development • Operating Systems • Networking basic
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
