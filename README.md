@@ -1,6 +1,6 @@
 # I'm Anthony Kebadilwe 🐲
 
-I'm a information management student currently in my third year, focused on software development, networks and data.
+I'm a information management student currently in my third year, focused on software development, networks and data...
 
 ## What I'm studying (2026 Semester 1)
 - Programming in Java - Management & Entrepreneurship
