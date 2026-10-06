@@ -17,6 +17,14 @@ I'm a information management student currently in my third year, focused on soft
 ![](https://github-readme-stats.shion.dev/api?username=AnthonyKebadilwe&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AnthonyKebadilwe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnthonyKebadilwe&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnthonyKebadilwe/Snake/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnthonyKebadilwe/Snake/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnthonyKebadilwe/Snake/output/github-snake.svg" />
+</picture>
+
+
 ## What I've covered so far
 - Introduction to Computing, Foundations of Computation
 - Object Oriented Programming, Operating Systems
