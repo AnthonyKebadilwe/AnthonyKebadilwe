@@ -113,3 +113,26 @@ Java · OOP · SQL · Web development · Operating systems · Networking basics
 </p>
 
 [![Profile views](https://komarev.com/ghpvc/?username=AnthonyKebadilwe&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## Huawei course certificates
+
+I have completed the following Huawei courses and received course certificates:
+
+| Course | Issuer/platform | Effective date |
+|---|---|---|
+| Overview of AI | Huawei Talent | 27 September 2026 |
+| 5G Network Architecture and Key Technologies | Huawei Talent | 28 September 2026 |
+| Overview of IoT Technologies | Huawei Talent | 28 September 2026 |
+
+These are course-completion certificates, distinct from Huawei HCIA, HCIP and HCIE professional certifications.
+
+## AI learning pathway
+
+I am building toward HCIA-AI certification and preparing for the Huawei ICT Competition Cloud track. My focus is Python, machine learning, deep learning, cloud services and practical AI applications.
+
+- In progress: HCIA-AI Solution V1.0 Course.
+- Planned study: Artificial Intelligence Fundamentals and modular experiments, HCIA-AI, HCIA-Cloud Service, HCIA-Cloud Computing, and HCCDA-AI.
+- [My AI study pathway](docs/AI-STUDY-PATHWAY.md)
+
+Learning goals are separate from earned credentials; competition registration and professional certification are not claimed here.
